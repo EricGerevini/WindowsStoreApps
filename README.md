@@ -1,4 +1,4 @@
-# Estudo sobre a estatísticas dos aplicativos do windowns store e o processo seletivo do meu atual emprego =)
+# Estudo sobre a estatísticas dos aplicativos do windowns store
 Neste estudo, levarei em consideração os seguintes dados de cada aplicativo:
 
 - Data de lançamento
@@ -6,6 +6,8 @@ Neste estudo, levarei em consideração os seguintes dados de cada aplicativo:
 - Número de avaliações
 - Preço
 - Categoria 
+
+Obs: Também foi o processo seletivo do meu atual emprego =)
 
 No python, utilizei as seguintes bibliotecas:
 
