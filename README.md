@@ -47,13 +47,15 @@ Evidenciando que os não existe (ou muito baixa) correlação.
 Os resultados podem ser vários motivos, algumas conclusÕes(pessoais) foram:
 
 1 - Os aplicativos que são melhores avaliados, tendem a ter mais downloads e um maior número de clientes satisfeitos, e os aplicativos com menor nota o oposto.
+
 2 - No segundo não houve correlação, portanto nõa cabe uma análise qualitative do resultado.
+
 3 - Neste resultado, esse resultado pode acontecer devido uma maior rigorosidade dos clientes por pagarem pelo seus produtos.
 
 # Referências 
 
 https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp
 
-Obrigado e espero que gostem do meu primeiro projeto/estudo em dataframe em python.
+Obrigado e espero que gostem do meu segundo projeto/estudo em dataframe em python.
 
 Abraços o/
