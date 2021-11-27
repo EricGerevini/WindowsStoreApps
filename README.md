@@ -1,4 +1,4 @@
-# Estudo sobre a estatísticas dos aplicativos do windowns store
+# Estudo sobre a estatísticas dos aplicativos do windowns store e o processo seletivo do meu atual emprego =)
 Neste estudo, levarei em consideração os seguintes dados de cada aplicativo:
 
 - Data de lançamento
@@ -32,6 +32,11 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 ```
+
+# Fonte de Dados
+
+A 3 tabelas de dados estão disponíveis para download.
+
 # Resultados
 
 Os resultados foram bastantes satisfatórios:
