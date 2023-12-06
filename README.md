@@ -41,7 +41,7 @@ A 3 tabelas de dados estão disponíveis para download.
 
 # Resultados
 
-Os resultados foram bastantes satisfatórios:
+Os resultados foram bastante satisfatórios:
 
 1 - Encontrei uma forte correlação (0.88 utilizando o método de Pearson) entre a avaliação dos aplicativos e a quantidade de avialiações.
 Evidenciando que os aplicativos mais avaliações tendem a ser melhor avaliados.
