@@ -16,7 +16,7 @@ No python, utilizei as seguintes bibliotecas:
 - Numpy
 
 # Objetivos
-Neste projeto tenho como objetivo procurar correlaçÕes entre alguns dados:
+Neste projeto tenho como objetivo procurar correlações entre alguns dados:
 
 1 - Existe relação entre a avaliação dos aplicativos e a quantidade de avaliações? 
 
